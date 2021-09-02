@@ -67,9 +67,6 @@ Global Styles
   box-sizing: border-box;
 }
 
-.container{
-  border: 2px;
-}
 body {
   font-family: var(--ff-secondary);
   background: var(--clr-grey-10);
